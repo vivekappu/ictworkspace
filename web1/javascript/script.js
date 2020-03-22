@@ -10,4 +10,4 @@ console.log(details);
 console.log(details.length);// to find length of string , string is an object in js
 console.log(details.toUpperCase());//to uppercase method
 console.log(details.substring(0,4));
-console.log(details.substring(0,5).toUpperCase());// Nitha mam number 9645612250 , 9349936566
+console.log(details.substring(0,5).toUpperCase());
